@@ -27,7 +27,7 @@
   - [Links](#links)
 - [Process](#process)
   - [Technologies](#technologies)
-  - [Why TheraFit](#why-therafit)
+  - [Why Quizzle](#why-quizzle)
   - [What I learned](#what-i-learned)
   - [Optimizations](#optimizations)
 - [Getting started](#getting-started)
@@ -93,7 +93,7 @@ Client Side:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
- ### Why TheraFit:
+ ### Why Quizzle:
  
 Quizzle was developed as a fun and interactive way to challenge one's knowledge and learn new things in the process. I observed that traditional quiz formats could be rigid and limited in terms of user engagement, often lacking customization and a visually appealing interface. Quizzle aims to address these shortcomings by offering a personalized quiz experience tailored to each user's preferences.
 

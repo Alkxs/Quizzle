@@ -7,8 +7,8 @@
  # TheraFit - Quizzle App
 
  <img src="./src/public/quiz.svg" alt="Logo" width="320">
-
-
+ 
+  <br />
   <br />
 
  <p align="center">
@@ -51,7 +51,7 @@ Quizzle is an interactive quiz app that allows you to challenge yourself with a 
 
 ### Demo
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlYWRjNzM2Y2JmNjVkMDEwZmFiNzg5NTM0OTg0ZmNkOWFhYTJkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uE0yv44dqz9dkNymPW/giphy.gif" alt="Quizzle GIF" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlYWRjNzM2Y2JmNjVkMDEwZmFiNzg5NTM0OTg0ZmNkOWFhYTJkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uE0yv44dqz9dkNymPW/giphy.gif" alt="Quizzle GIF">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

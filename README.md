@@ -60,9 +60,9 @@ Quizzle is an interactive quiz app that allows you to challenge yourself with a 
 <details>
   <summary>Show Images</summary>
     <div align="center">
-      <img src='./src/public/1.png' alt='Main page' >
-      <img src='./src/public/2.png' alt='Questions page' >
-      <img src='./src/public/3.png' alt='Answers page' >
+      <img src='./src/public/screenshots/1.png' alt='Main page' >
+      <img src='./src/public/screenshots/2.png' alt='Questions page' >
+      <img src='./src/public/screenshots/3.png' alt='Answers page' >
       </div>
 </details>
 
